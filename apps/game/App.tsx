@@ -10,7 +10,7 @@ export default function App() {
           Metro App — B
         </Text>
         <Text style={styles.subtitle}>
-          Trenes en movimiento: prompt de p-026.
+          Trenes en movimiento: prompt de p-026. Ensayo de PR M3.
         </Text>
       </View>
       <StationBoard />
